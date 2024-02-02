@@ -1,0 +1,32 @@
+body {
+    background-color: #fdcb6e; 
+}
+
+b {
+    /* for rəngi */
+    background-color: red;
+    
+    /* şriftin rəngi */
+    color: white;
+
+    /* daxili boşluq */
+    padding: 5px;
+}
+
+.bashliq {
+    background-color: blue;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+strong {
+    /* yazının üzrənindən xətt çəkir. (Alternativi "html"-də "del" teqi)  */
+    text-decoration: line-through;
+}
+
+/* class adı CSS-də əvvəlində "." (nöqtə) qoyulmaqla çağırılır. */
+.eyri {
+    background-color: yellow;
+}
